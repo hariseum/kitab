@@ -1,0 +1,10 @@
+<svg width="1000" height="1000" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1" fill="#000000" transform="translate(0 1000) scale(0.1 -0.1)">
+   <path fill="#ffffff" id="svg_2" d="m5592,7307l-2302,-2302l1323,-1323l1322,-1322l540,0l540,0l-1325,1325l-1325,1325l2035,2035l2035,2035l-265,265c-146,146 -267,265 -270,265c-3,0 -1041,-1036 -2308,-2303z"/>
+   <path fill="#ffffff" id="svg_3" d="m3005,6450l-1440,-1440l2305,-2305l2305,-2305l267,267l268,268l-2037,2037l-2038,2038l1440,1440l1440,1440l-535,0l-535,0l-1440,-1440z"/>
+  </g>
+ </g>
+</svg>
